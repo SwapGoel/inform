@@ -1,0 +1,31 @@
+# Secrets — never commit these
+*.serviceAccountKey.json
+firebase-service-account*.json
+.env
+.env.*
+
+# Node / content-pipeline
+content-pipeline/node_modules/
+content-pipeline/dist/
+npm-debug.log*
+
+# Flutter / Dart
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/**/android/.gradle/
+app/**/android/app/build/
+app/**/android/local.properties
+app/**/android/key.properties
+app/**/*.jks
+app/**/*.keystore
+app/**/ios/Pods/
+app/**/ios/.symlinks/
+
+# macOS
+.DS_Store
+
+# Local Claude Code session state — not project content
+.claude/

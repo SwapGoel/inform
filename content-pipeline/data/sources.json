@@ -1,0 +1,16 @@
+{
+  "_readme": "PIB (pib.gov.in) serves valid RSS XML at RssMain.aspx?ModId=<ministry>&Lang=<1|2>&Regid=<region>, but the site's RSS-picker page is JavaScript-rendered so it can't be scraped for the real list, and empirically the Lang parameter does NOT reliably switch languages (verified: ModId=6/9/10 at Regid=3 all return Hindi text regardless of Lang=1 or Lang=2 — do not assume Lang=2 means English without re-checking actual output). Because of that, the one feed below is deliberately tagged 'hi' only — it's genuinely Hindi content, useful for the Hindi track. To add a verified English PIB feed (or more Hindi ones), open https://pib.gov.in in a real browser, find its RSS section, copy the feed URLs it links to, fetch each one, and READ the actual item text before trusting its language tag here. English current-events coverage for now comes from Wikipedia (always English) and, if configured, NewsData.io.",
+  "pib_feeds": [
+    {
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+      "category": "current_events",
+      "language": "hi"
+    }
+  ],
+  "newsdata_categories": {
+    "current_events": ["politics", "top"],
+    "economy": ["business"],
+    "environment": ["environment"],
+    "science": ["science", "technology"]
+  }
+}

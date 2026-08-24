@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lumosity",
+    "name": "Lumosity",
+    "description_en": "Short daily brain-training games for memory, attention, and problem-solving.",
+    "description_hi": "स्मृति, एकाग्रता और समस्या-समाधान के लिए छोटे दैनिक मस्तिष्क-प्रशिक्षण खेल।",
+    "url": "https://www.lumosity.com"
+  },
+  {
+    "id": "sporcle",
+    "name": "Sporcle",
+    "description_en": "Fill-in-the-blank knowledge quizzes across geography, history, science, and more.",
+    "description_hi": "भूगोल, इतिहास, विज्ञान और अन्य विषयों पर आधारित रिक्त-स्थान ज्ञान प्रश्नोत्तरी।",
+    "url": "https://www.sporcle.com"
+  },
+  {
+    "id": "nyt-games",
+    "name": "NYT Games",
+    "description_en": "Wordle, Connections, and other short daily word/logic puzzles.",
+    "description_hi": "वर्डल, कनेक्शन्स और अन्य छोटी दैनिक शब्द/तर्क पहेलियाँ।",
+    "url": "https://www.nytimes.com/games"
+  },
+  {
+    "id": "chess-puzzles",
+    "name": "Chess.com Puzzles",
+    "description_en": "Bite-sized tactical chess puzzles to sharpen pattern recognition.",
+    "description_hi": "पैटर्न पहचान को तेज़ करने के लिए छोटी सामरिक शतरंज पहेलियाँ।",
+    "url": "https://www.chess.com/puzzles"
+  },
+  {
+    "id": "geoguessr",
+    "name": "GeoGuessr",
+    "description_en": "Guess your location from a street-view image — a fun geography workout.",
+    "description_hi": "स्ट्रीट-व्यू छवि से अपना स्थान अनुमान लगाएं — भूगोल का एक मज़ेदार अभ्यास।",
+    "url": "https://www.geoguessr.com"
+  },
+  {
+    "id": "brainzilla",
+    "name": "Brainzilla",
+    "description_en": "Logic puzzles, riddles, and brain teasers of varying difficulty.",
+    "description_hi": "अलग-अलग कठिनाई स्तर की तर्क पहेलियाँ, पहेलियां और दिमागी कसरत।",
+    "url": "https://www.brainzilla.com"
+  },
+  {
+    "id": "puzzle-baron",
+    "name": "Puzzle Baron",
+    "description_en": "Logic grid puzzles, cryptograms, and word searches.",
+    "description_hi": "तर्क ग्रिड पहेलियाँ, क्रिप्टोग्राम और शब्द खोज।",
+    "url": "https://www.puzzlebaron.com"
+  },
+  {
+    "id": "maths-is-fun-puzzles",
+    "name": "Math Is Fun — Puzzles",
+    "description_en": "Short, approachable mathematical puzzles and brain teasers.",
+    "description_hi": "छोटी, सुलभ गणितीय पहेलियाँ और दिमागी कसरत।",
+    "url": "https://www.mathsisfun.com/puzzles"
+  }
+]

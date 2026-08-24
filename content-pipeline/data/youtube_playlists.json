@@ -1,0 +1,4 @@
+{
+  "_readme": "Add the YouTube 'uploads playlist ID' for each channel you want videos pulled from. Trick: a channel ID always starts with 'UC' (e.g. UCxxxxxxxx); replace the 'UC' prefix with 'UU' to get that channel's uploads playlist ID (e.g. UUxxxxxxxx) — no extra API call needed to find it. Find a channel's ID via its 'About' page > Share > Copy channel ID, or via https://www.youtube.com/account_advanced when it's your own channel.",
+  "playlists": []
+}

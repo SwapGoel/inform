@@ -1,0 +1,66 @@
+{
+  "current_events": {
+    "label_en": "Current Events",
+    "label_hi": "समसामयिकी",
+    "gradientFrom": "#0f2027",
+    "gradientTo": "#2c5364",
+    "accent": "#7fdbff",
+    "iconName": "newspaper"
+  },
+  "history": {
+    "label_en": "History & National Movement",
+    "label_hi": "इतिहास",
+    "gradientFrom": "#3e1f1f",
+    "gradientTo": "#7a4b3a",
+    "accent": "#f0c27b",
+    "iconName": "history_edu"
+  },
+  "geography": {
+    "label_en": "Geography",
+    "label_hi": "भूगोल",
+    "gradientFrom": "#0b3d2e",
+    "gradientTo": "#2f7a5c",
+    "accent": "#a8e6b0",
+    "iconName": "public"
+  },
+  "polity": {
+    "label_en": "Polity & Governance",
+    "label_hi": "राजनीति",
+    "gradientFrom": "#141e46",
+    "gradientTo": "#1f4287",
+    "accent": "#e5c76b",
+    "iconName": "account_balance"
+  },
+  "economy": {
+    "label_en": "Economy & Social Dev.",
+    "label_hi": "अर्थव्यवस्था",
+    "gradientFrom": "#014d4e",
+    "gradientTo": "#1c7c54",
+    "accent": "#b8f2d4",
+    "iconName": "trending_up"
+  },
+  "environment": {
+    "label_en": "Environment & Ecology",
+    "label_hi": "पर्यावरण",
+    "gradientFrom": "#1b3409",
+    "gradientTo": "#3f6212",
+    "accent": "#d9f99d",
+    "iconName": "eco"
+  },
+  "science": {
+    "label_en": "General Science",
+    "label_hi": "विज्ञान",
+    "gradientFrom": "#2e1065",
+    "gradientTo": "#5b21b6",
+    "accent": "#ddd6fe",
+    "iconName": "science"
+  },
+  "maths": {
+    "label_en": "General Mathematics",
+    "label_hi": "गणित",
+    "gradientFrom": "#7c2d12",
+    "gradientTo": "#c2410c",
+    "accent": "#fed7aa",
+    "iconName": "calculate"
+  }
+}
