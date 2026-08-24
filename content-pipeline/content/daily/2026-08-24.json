@@ -1,0 +1,70 @@
+[
+  {
+    "cardId": "bb283864-9dd6-4bc7-b998-bf7845751e0c",
+    "category": "current_events",
+    "language": "hi",
+    "headline": "नेशनल जूलॉजिकल पार्क ने दिल्ली चिड़ियाघर में दूसरा 'ट्री वॉक' और 11वां 'संडे बर्ड वॉक' आयोजित किया गया",
+    "summary": "",
+    "sourceUrl": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2302574",
+    "sourceName": "PIB",
+    "publishedDate": "2026-08-24"
+  },
+  {
+    "cardId": "97c564ba-adb9-4841-8704-c244cea176aa",
+    "category": "current_events",
+    "language": "hi",
+    "headline": "राष्ट्रीय सफाई कर्मचारी आयोग (एनसीएसके) ने अपना 33वां स्थापना दिवस मनाया; इस कार्यक्रम में 900 से अधिक सफाई कर्मचारियों और अन्य हितधारकों ने हिस्सा लिया",
+    "summary": "",
+    "sourceUrl": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2302575",
+    "sourceName": "PIB",
+    "publishedDate": "2026-08-24"
+  },
+  {
+    "cardId": "c2b6cfe6-06a9-4bb8-834c-55ff3b106e7e",
+    "category": "history",
+    "language": "en",
+    "headline": "Treaty of Córdoba",
+    "summary": "The Treaty of Córdoba is signed in Córdoba, now in Veracruz, Mexico, concluding the Mexican War of Independence from Spain.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_C%C3%B3rdoba",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tratados_de_C%C3%B3rdoba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "Jaontiveros (CC BY-SA 4.0, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "06be6715-3adb-4e1f-bc81-29966b0c0e29",
+    "category": "history",
+    "language": "en",
+    "headline": "American Revolutionary War",
+    "summary": "American Revolutionary War: A small force of Pennsylvania militia is ambushed and overwhelmed by an American Indian group, which forces George Rogers Clark to abandon his attempt to attack Detroit.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Surrender_of_Lord_Cornwallis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "John Trumbull (Public domain, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "5a4f1c2b-0abe-4cdd-b074-d0cb89e33e5c",
+    "category": "history",
+    "language": "en",
+    "headline": "Job Charnock",
+    "summary": "Job Charnock of the East India Company establishes a factory in Calcutta, an event formerly considered the founding of the city (in 2003 the Calcutta High Court ruled that the city's foundation date is unknown).",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Job_Charnock",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Job_Charnock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "Chingaaribera (CC BY-SA 4.0, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "60de4a2b-c8b1-4d2c-98c3-4cd20b9587ab",
+    "category": "history",
+    "language": "en",
+    "headline": "Surat",
+    "summary": "The first official English representative to India lands in Surat.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Surat",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bharthana_Althan_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "Rahul Bhadane (CC BY-SA 4.0, via Wikimedia Commons)"
+  }
+]
