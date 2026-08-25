@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "4d162bd0-235b-4dab-b41e-f3486b675e59",
+    "category": "history",
+    "language": "en",
+    "headline": "Belarus",
+    "summary": "Belarus gains its independence from the Soviet Union.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Belarus",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/001_Kievan_Rus%27_Kyivan_Rus%27_Ukraine_map_1220_1240.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "SeikoEn (CC BY-SA 3.0, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "95022b1c-ad03-43a9-b94b-e4e0ead2e573",
+    "category": "history",
+    "language": "en",
+    "headline": "Battle of Vukovar",
+    "summary": "The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Vukovar",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "anjči from London, UK (CC BY 2.0, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "d13d7603-1e9b-4dd3-bd7a-3f9100acad52",
+    "category": "history",
+    "language": "en",
+    "headline": "Thirty-Three Orientals",
+    "summary": "The Thirty-Three Orientals declare the independence of Uruguay from Brazil.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Thirty-Three_Orientals",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-08-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "Juan Manuel Blanes (Public domain, via Wikimedia Commons)"
+  }
+]
