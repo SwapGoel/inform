@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "c8f0509a-1fad-4a4c-9d2a-1c92c6b97c87",
+    "category": "history",
+    "language": "en",
+    "headline": "Jaffna hospital massacre",
+    "summary": "The Jaffna hospital massacre is carried out by Indian peacekeeping forces in Sri Lanka, killing 70 Tamil patients, doctors and nurses.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jaffna_hospital_massacre",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-10-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LocationSriLanka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "--Snowolfd4, --Vardion (Public domain, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "c8dd58ad-9f97-4097-b7d1-f0a73eb4f61a",
+    "category": "history",
+    "language": "en",
+    "headline": "Azad Hind",
+    "summary": "World War II: The Provisional Government of Free India is formally established in Japanese-occupied Singapore.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Azad_Hind",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-10-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/2_Annas_Token_currency_%28Unclassified_exonumia_%E2%80%BA_Miscellaneous_token%29%2C_minted_in_August_1947_in_remembrance_of_the_Netaji_Subhash_Chandra_Bose_led_Azad_Hind_Government%2C_photo_taken_by_Yogabrata_Chakraborty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "Billjones94 (CC BY-SA 4.0, via Wikimedia Commons)"
+  },
+  {
+    "cardId": "5942a165-3c38-4808-8108-2fbd64c993e7",
+    "category": "history",
+    "language": "en",
+    "headline": "Medicine Lodge Treaty",
+    "summary": "The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty",
+    "sourceName": "Wikipedia",
+    "publishedDate": "2026-10-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Council_at_Medicine_Lodge_Creek.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageAttribution": "J. Howland, Harper's Weekly (Public domain, via Wikimedia Commons)"
+  }
+]
